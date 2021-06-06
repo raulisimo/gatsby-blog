@@ -2,7 +2,7 @@
 title: Learn Gatsby Fast
 subtitle: Learn Gatsy now, its super!
 date: 2021-02-10
-slug: learn-program-gatsby
+slug: learn-gatsby-quick
 author: Raúl Sánchez Pérez
 rating: 4
 coverImage: https://import.cdn.thinkific.com/335268/L2JwqFccTlue3rilU5yK_react.jpg

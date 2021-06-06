@@ -2,7 +2,7 @@
 title: Learn Programming in JS
 subtitle: learn programing, its super cool!
 date: 2021-10-10
-slug: learn-program-js
+slug: learn-programming-in-js
 author: Raúl Sánchez Pérez
 rating: 3
 coverImage: https://import.cdn.thinkific.com/335268/8R9DeheYS8CP1Wrtm5Gk_javascript.jpg

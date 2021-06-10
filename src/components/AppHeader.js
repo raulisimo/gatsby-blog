@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
+import ThemeToggle from "./ThemeToggle";
 
 export default function AppHeader({ seo }) {
   const [isActive, setisActive] = useState(false);
@@ -68,6 +69,7 @@ export default function AppHeader({ seo }) {
         <div className="navbar-end">
           <div className="navbar-item">
             <div className="field is-grouped">
+              <ThemeToggle className="is-flex is-align-self-center mr-5" />
               <p className="control">
                 <a
                   className="bd-tw-button button"
@@ -76,7 +78,7 @@ export default function AppHeader({ seo }) {
                   data-social-target="https://eincode.com"
                   rel="noreferrer"
                   target="_blank"
-                  href={`https://twitter.com/intent/tweet?text=Hello World&hashtags=eincode&url=https://eincode.com`}
+                  href={`https://twitter.com/intent/tweet?text=Hello World&hashtags=raulisimo`}
                 >
                   <span>Tweet</span>
                 </a>

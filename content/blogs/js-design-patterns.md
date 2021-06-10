@@ -10,6 +10,8 @@ coverImage: https://import.cdn.thinkific.com/335268/llo44iPiRBCsYnf3wYEk_c%23_Lo
 
 ## Code
 
+![alt text](https://import.cdn.thinkific.com/335268/llo44iPiRBCsYnf3wYEk_c%23_Logo.jpg "Java Patterns Image")
+
 Inline `code`
 
 Indented code

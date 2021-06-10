@@ -8,6 +8,8 @@ rating: 3
 coverImage: https://import.cdn.thinkific.com/335268/8R9DeheYS8CP1Wrtm5Gk_javascript.jpg
 ---
 
+![alt text](https://import.cdn.thinkific.com/335268/8R9DeheYS8CP1Wrtm5Gk_javascript.jpg "Js Programming Image")
+
 ## Emphasis
 
 **This is bold text**

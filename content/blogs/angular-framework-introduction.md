@@ -13,6 +13,7 @@ coverImage: https://files.cdn.thinkific.com/courses/course_card_image_000/846/12
 The killer feature of `markdown-it` is very effective support of
 [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
 
+![alt text](https://files.cdn.thinkific.com/courses/course_card_image_000/846/1201595605185.medium.png "Angular Image")
 
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
 

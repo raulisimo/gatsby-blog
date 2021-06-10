@@ -8,6 +8,8 @@ rating: 4
 coverImage: https://import.cdn.thinkific.com/335268/L2JwqFccTlue3rilU5yK_react.jpg
 ---
 
+![alt text](https://import.cdn.thinkific.com/335268/L2JwqFccTlue3rilU5yK_react.jpg "Gatsby Image")
+
 # h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading

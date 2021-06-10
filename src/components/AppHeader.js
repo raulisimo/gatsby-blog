@@ -3,6 +3,12 @@ import { Link } from "gatsby";
 import ThemeToggle from "./ThemeToggle";
 
 export default function AppHeader({ seo }) {
+  const twitterMessage = seo?.title
+    ? `I have just published "${seo.title}"`
+    : "Join me";
+
+  const twitterUrl = seo?.url || "";
+
   const [isActive, setisActive] = useState(false);
 
   const handleClick = () => {
@@ -78,7 +84,7 @@ export default function AppHeader({ seo }) {
                   data-social-target="https://eincode.com"
                   rel="noreferrer"
                   target="_blank"
-                  href={`https://twitter.com/intent/tweet?text=Hello World&hashtags=raulisimo`}
+                  href={`https://twitter.com/intent/tweet?text=${twitterMessage}&hashtags=codespace&url=${process.env.BASE_URL}${twitterUrl}`}
                 >
                   <span>Tweet</span>
                 </a>
